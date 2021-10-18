@@ -176,22 +176,20 @@
 <div class="custom">
    Zona de descargas
 </div>
-<table align="center">
-   <tr>
-      <td>
-         <a class="btn-secondary form-control text-center" href="listado-csv.jsp" download=�libros.csv�>DESCARGAR CSV</a>
-      </td>
-      <td>
-         <a class="btn-secondary form-control text-center" href="listado-txt.jsp" download=�libros.txt�>DESCARGAR TXT</a>
-      </td>
-      <td>
-         <a class="btn-secondary form-control text-center" href="listado-xml.jsp" download=�libros.xml�>DESCARGAR XML</a>
-      </td>
-      <td>
-         <a class="btn-secondary form-control text-center" href="lista-json.jsp" download=�libros.json�>DESCARGAR JSON</a>
-      </td>
-   </tr>
-</table>
+<div class="row">
+   <div class="col">
+      <a class="btn-secondary form-control text-center" href="listado-csv.jsp" download=�libros.csv�>DESCARGAR CSV</a>
+   </div>
+   <div class="col">
+      <a class="btn-secondary form-control text-center" href="listado-txt.jsp" download=�libros.txt�>DESCARGAR TXT</a>
+   </div>
+   <div class="col">
+      <a class="btn-secondary form-control text-center" href="listado-xml.jsp" download=�libros.xml�>DESCARGAR XML</a>
+   </div>
+   <div class="col">
+      <a class="btn-secondary form-control text-center" href="lista-json.jsp" download=�libros.json�>DESCARGAR JSON</a>
+   </div>
+</div>
 <script src="js/libros.js"></script>
 <div class="footer">
    Todos los derechos reservados GP06 - TPI115 - 2021 <br>
