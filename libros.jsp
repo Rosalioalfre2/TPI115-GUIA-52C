@@ -189,11 +189,110 @@
    <div class="col">
       <a class="btn-secondary form-control text-center" href="lista-json.jsp" download=�libros.json�>DESCARGAR JSON</a>
    </div>
+   <div class="col">
+      <a class="btn-secondary form-control text-center" href="listado-html.jsp" download=�libros.json�>DESCARGAR HTML</a>
+   </div>
 </div>
 <script src="js/libros.js"></script>
 <div class="footer">
-   Todos los derechos reservados GP06 - TPI115 - 2021 <br>
-   Universidad de El Salvador
+   <div class="row">
+      <div class="col">
+         <p>Integrantes</p>
+      </div>
+      <div class="col">
+         <p>Carnet</p>
+      </div>
+   </div>
+   <div class="row">
+      <div class="col">
+         <p>
+            Martinez Flores, Brenda Carolina
+         </p>
+      </div>
+      <div class="col">
+         <p>
+            MF11043
+         </p>
+      </div>
+   </div>
+   <div class="row">
+      <div class="col">
+         <p>
+            Manzano Rivas, Diego Marcelo
+         </p>
+      </div>
+      <div class="col">
+         <p>
+            MR16016
+         </p>
+      </div>
+   </div>
+   <div class="row">
+      <div class="col">
+         <p>
+            Angel Garcia, Katerin Julissa
+         </p>
+      </div>
+      <div class="col">
+         <p>
+            AG17019
+         </p>
+      </div>
+   </div>
+   <div class="row">
+      <div class="col">
+         <p>
+            Carbajal Guillen, Katya Renee
+         </p>
+      </div>
+      <div class="col">
+         <p>
+            CG18064
+         </p>
+      </div>
+   </div>
+   <div class="row">
+      <div class="col">
+         <p>
+            Garcia Acevedo, Andres Abenabi
+         </p>
+      </div>
+      <div class="col">
+         <p>
+            GA18069
+         </p>
+      </div>
+   </div>
+   <div class="row">
+      <div class="col">
+         <p>
+            <strong>Monterrosa Valle, Rosalio Alfredo</strong>
+         </p>
+      </div>
+      <div class="col">
+         <p>
+            <strong>MV18037</strong>
+         </p>
+      </div>
+   </div>
+   <div class="row">
+      <div class="col">
+         <p>
+            Rivera Garcia, Marvin Rene
+         </p>
+      </div>
+      <div class="col">
+         <p>
+            RG18081
+         </p>
+      </div>
+   </div>
+
+   <p>Todos los derechos reservados GP06 - TPI115 - 2021 
+      <br>
+   Universidad de El Salvador</p>
+
+</div>
 </div>
 </div>
 </div>
