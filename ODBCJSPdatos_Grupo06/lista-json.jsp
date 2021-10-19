@@ -51,9 +51,8 @@ ls_result += " <br/>" + e.toString();
 <%!
 public Connection getConnection(String path) throws SQLException {
 String driver = "sun.jdbc.odbc.JdbcOdbcDriver";
-String filePath= path+"\\datos.mdb";
 String userName="",password="";
-String fullConnectionString = "jdbc:odbc:Driver={Microsoft Access Driver (*.mdb)};DBQ=" + filePath;
+String fullConnectionString = "jdbc:odbc:registro";
 
     Connection conn = null;
 try{
